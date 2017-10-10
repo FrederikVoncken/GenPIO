@@ -1,0 +1,25 @@
+#######################################
+# Syntax Coloring Map
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+GenPIO	KEYWORD1
+FunctionalActive_t KEYWORD1
+FunctionalInvert_t KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+Write	KEYWORD2
+Read	KEYWORD2
+
+######################################
+# Constants (LITERAL1)
+#######################################
+NORMAL	LITERAL1
+INVERTED	LITERAL1
+OFF	LITERAL1
+ON	LITERAL1
+

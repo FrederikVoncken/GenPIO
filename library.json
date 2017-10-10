@@ -1,0 +1,13 @@
+{
+  "name": "GenPIO",
+  "keywords": "gpio, io",
+  "description": "ESP8266 GPIO",
+  "repository":
+  {
+    "type": "",
+    "url": ""
+  },
+  "frameworks": "arduino",
+  "platforms": "espressif",
+  "version": "0.10"
+}
